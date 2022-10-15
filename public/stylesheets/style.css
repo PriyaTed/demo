@@ -1,0 +1,28 @@
+body{
+  margin-top: 5%;
+  background-color: black;
+}
+.headings{
+  background-color: plum;
+  color: white;
+  padding:10px;
+}
+
+.left{
+  position: absolute;
+  left: 30%;
+  width: 20%;
+  height: 75%;
+  background-color: aliceblue;
+  border-top-left-radius: 2%;
+  border-top-right-radius: 2%;
+  padding: 2%;
+}
+th{
+  padding: 5px;
+  font-size: large;
+  text-align: left;
+}
+td{ 
+  font-size: 19px;
+}

@@ -1,6 +1,7 @@
 body{
   margin-top: 5%;
   background-color: black;
+  
 }
 .headings{
   background-color: plum;
@@ -10,10 +11,12 @@ body{
 
 .left{
   position: absolute;
-  left: 30%;
+  left: 35%;
+  top : 10%;
   width: 20%;
   height: 75%;
   background-color: aliceblue;
+  background-image: 'images/workplace.jpeg';
   border-top-left-radius: 2%;
   border-top-right-radius: 2%;
   padding: 2%;
